@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_172322_ts.Manager" name="x_172322_ts.Manager">1b6863bedb575300d484f7fdbf96190a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-18 17:48:02</sys_created_on>
+        <sys_id>52786f3edb575300d484f7fdbf9619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1b6863bedb575300d484f7fdbf96190a</sys_name>
+        <sys_package display_value="Time Sheet" source="x_172322_ts">dd044092db931300d484f7fdbf9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Sheet">dd044092db931300d484f7fdbf9619ec</sys_scope>
+        <sys_update_name>sys_embedded_help_role_52786f3edb575300d484f7fdbf9619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-18 17:48:02</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

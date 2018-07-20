@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <mandatory>false</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-16 17:01:33</sys_created_on>
+        <sys_id>359acd92db171300d484f7fdbf9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="Time Sheet" source="x_172322_ts">dd044092db931300d484f7fdbf9619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Sheet">dd044092db931300d484f7fdbf9619ec</sys_scope>
+        <sys_update_name>sys_ui_policy_action_359acd92db171300d484f7fdbf9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-16 17:01:33</sys_updated_on>
+        <table>x_172322_ts_time_cards</table>
+        <ui_policy display_value="Based on Category field make Sub Category and Description field Visible and Mandatory">dae98992db171300d484f7fdbf961962</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
